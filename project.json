@@ -1,0 +1,18 @@
+{
+  "id": "SCISAP",
+  "description": "https://github.com/RicardoAmaralRei/ReqView.git",
+  "documents": [
+    "PROJ.json"
+  ],
+  "traceability": {
+    "reference": {
+      "name": "Reference",
+      "source": "References",
+      "target": "Referenced by"
+    }
+  },
+  "metadata": {
+    "format": "2.22",
+    "saveHistory": true
+  }
+}
